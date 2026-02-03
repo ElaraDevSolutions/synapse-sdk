@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.test
+*.out
+*.app
+
+# Go workspace
+go.work
+
+# Dependency directories (if using vendor)
+vendor/
